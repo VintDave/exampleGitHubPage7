@@ -1,4 +1,4 @@
 # exampleGitHubPage7
 
 ## LICENSE
-[MIT License](LICENSE)
+[MIT License](LICENSE.txt)
